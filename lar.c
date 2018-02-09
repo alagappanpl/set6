@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+main()
 {
     int a[10],n,i,t;
     printf("Enter the count");
@@ -18,5 +18,4 @@ int main()
         }
     }
     printf("The largest number is %d",a[n-1]);
-    return 0;
 }
